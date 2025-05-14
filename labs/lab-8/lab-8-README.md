@@ -10,12 +10,12 @@ This README lives in `labs/lab-8/lab-8-README.md` and guides you through exposin
 In this lab you will:
 1. Create and configure Services of types ClusterIP, NodePort, and LoadBalancer.  
 2. Expose a Service externally with a Route.  
-3. Secure a Route using TLS and create a basic NetworkPolicy. citeturn5file0
+3. Secure a Route using TLS and create a basic NetworkPolicy.
 
 ## Objectives
 - Understand internal and external networking in OpenShift.  
 - Manage Services and Routes.  
-- Secure application exposure with TLS and NetworkPolicies. citeturn5file0
+- Secure application exposure with TLS and NetworkPolicies.
 
 ## Step‑by‑Step Instructions
 ### 1. Create a ClusterIP Service

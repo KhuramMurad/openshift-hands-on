@@ -4,7 +4,7 @@
 
 > **Repository path:** `labs/lab-4/lab-4-README.md`
 
-In this lab you will ensure your application remains healthy and responsive by configuring health probes, setting resource boundaries, and scaling applications manually and automatically. citeturn3file0
+In this lab you will ensure your application remains healthy and responsive by configuring health probes, setting resource boundaries, and scaling applications manually and automatically.
 
 ---
 
@@ -82,7 +82,7 @@ oc apply -f my-app-deployment.yaml
 Verify probes:
 ```bash
 oc describe pod -l app=my-app
-``` citeturn3file0
+```
 
 ### 3  Set Resource Requests and Limits
 Create a YAML `my-pod-resources.yaml`:

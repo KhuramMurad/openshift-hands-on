@@ -4,7 +4,7 @@
 
 > **Repository path:** `labs/lab-16/lab-16-README.md`
 
-This README lives in `labs/lab-16/lab-16-README.md` and guides you through HA deployments, node failure simulation, and ETCD backups. citeturn6file13
+This README lives in `labs/lab-16/lab-16-README.md` and guides you through HA deployments, node failure simulation, and ETCD backups.
 
 ## Lab Overview
 In this lab you will:
@@ -15,7 +15,7 @@ In this lab you will:
 ## Objectives
 - Eliminate single points of failure with replica deployments.  
 - Test resilience by draining nodes.  
-- Secure cluster data with ETCD snapshots. citeturn6file13
+- Secure cluster data with ETCD snapshots.
 
 ---
 

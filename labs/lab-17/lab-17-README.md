@@ -4,7 +4,7 @@
 
 > **Repository path:** `labs/lab-17/lab-17-README.md`
 
-This README lives in `labs/lab-17/lab-17-README.md` and covers CRD creation, custom resources, and Operator usage. citeturn6file14
+This README lives in `labs/lab-17/lab-17-README.md` and covers CRD creation, custom resources, and Operator usage.
 
 ## Lab Overview
 In this lab you will:
@@ -15,7 +15,7 @@ In this lab you will:
 ## Objectives
 - Extend the API with CRDs.  
 - Manage lifecycle of custom resources.  
-- Automate workloads with Operators. citeturn6file14
+- Automate workloads with Operators.
 
 ---
 

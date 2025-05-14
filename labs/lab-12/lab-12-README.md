@@ -10,7 +10,7 @@ This README lives in `labs/lab-12/lab-12-README.md` and walks you through securi
 In this lab you will:
 1. Configure Pod securityContexts.  
 2. Define Roles and RoleBindings for least-privilege.  
-3. Audit the cluster for compliance. citeturn5file4
+3. Audit the cluster for compliance.
 
 ## Objectives
 - Harden containers via security contexts.  

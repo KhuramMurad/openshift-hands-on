@@ -4,7 +4,7 @@
 
 > **Repository path:** `labs/lab-13/lab-13-README.md`
 
-This README lives in `labs/lab-13/lab-13-README.md` and covers creating one-time and recurring tasks using OpenShift Jobs and CronJobs. citeturn6file10
+This README lives in `labs/lab-13/lab-13-README.md` and covers creating one-time and recurring tasks using OpenShift Jobs and CronJobs.
 
 ## Lab Overview
 In this lab you will:
@@ -15,7 +15,7 @@ In this lab you will:
 ## Objectives
 - Understand use of Jobs for batch processing.
 - Schedule and manage CronJobs for recurring tasks.
-- Monitor execution status and logs of Jobs and CronJobs. citeturn6file10
+- Monitor execution status and logs of Jobs and CronJobs.
 
 ---
 

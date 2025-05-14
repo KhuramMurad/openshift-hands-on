@@ -4,7 +4,7 @@
 
 > **Repository path:** `labs/lab-18/lab-18-README.md`
 
-This README lives in `labs/lab-18/lab-18-README.md` and covers performance diagnostics, resource tuning, and cluster parameter optimization. citeturn6file7
+This README lives in `labs/lab-18/lab-18-README.md` and covers performance diagnostics, resource tuning, and cluster parameter optimization.
 
 ## Lab Overview
 In this lab you will:
@@ -15,7 +15,7 @@ In this lab you will:
 ## Objectives
 - Diagnose bottlenecks with monitoring tools.  
 - Optimize container resource settings.  
-- Apply cluster‑wide performance configurations. citeturn6file7
+- Apply cluster‑wide performance configurations.
 
 ---
 

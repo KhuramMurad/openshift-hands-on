@@ -4,7 +4,7 @@
 
 > **Repository path:** `labs/lab-15/lab-15-README.md`
 
-This README lives in `labs/lab-15/lab-15-README.md` and covers deploying OpenShift on public clouds and leveraging cloud services. citeturn6file2
+This README lives in `labs/lab-15/lab-15-README.md` and covers deploying OpenShift on public clouds and leveraging cloud services.
 
 ## Lab Overview
 In this lab you will:
@@ -15,7 +15,7 @@ In this lab you will:
 ## Objectives
 - Understand cloud integration with OpenShift.  
 - Configure PVs using cloud storage classes.  
-- Leverage cloud autoscaling and monitoring. citeturn6file2
+- Leverage cloud autoscaling and monitoring.
 
 ---
 

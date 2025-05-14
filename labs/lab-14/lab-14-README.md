@@ -4,7 +4,7 @@
 
 > **Repository path:** `labs/lab-14/lab-14-README.md`
 
-This README lives in `labs/lab-14/lab-14-README.md` and explores network policies, service meshes, and troubleshooting network issues. citeturn6file0
+This README lives in `labs/lab-14/lab-14-README.md` and explores network policies, service meshes, and troubleshooting network issues.
 
 ## Lab Overview
 In this lab you will:
@@ -15,7 +15,7 @@ In this lab you will:
 ## Objectives
 - Control pod‑to‑pod traffic with NetworkPolicies.  
 - Deploy and understand service mesh components.  
-- Diagnose mesh connectivity issues. citeturn6file0
+- Diagnose mesh connectivity issues.
 
 ---
 

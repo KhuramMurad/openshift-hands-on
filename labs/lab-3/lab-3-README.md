@@ -7,7 +7,7 @@
 This README lives in `labs/lab-3/lab-3-README.md` and guides you through managing storage in OpenShift.
 
 ## Lab Overview
-In this lab you will learn to manage storage for application configuration and data. You’ll provision persistent storage volumes for block and file-based data, use storage classes for dynamic provisioning, and deploy stateful workloads that require stable storage. citeturn2file0
+In this lab you will learn to manage storage for application configuration and data. You’ll provision persistent storage volumes for block and file-based data, use storage classes for dynamic provisioning, and deploy stateful workloads that require stable storage.
 
 ## Objectives
 - Manage storage for application configuration and data.  

@@ -4,7 +4,7 @@
 
 > **Repository path:** `labs/lab-19/lab-19-README.md`
 
-This README lives in `labs/lab-19/lab-19-README.md` and covers setting up CI/CD pipelines in OpenShift. citeturn6file4
+This README lives in `labs/lab-19/lab-19-README.md` and covers setting up CI/CD pipelines in OpenShift.
 
 ## Lab Overview
 In this lab you will:
@@ -15,7 +15,7 @@ In this lab you will:
 ## Objectives
 - Automate builds with BuildConfigs.  
 - Implement pipeline stages for build, test, deploy.  
-- Set triggers for automatic deployment. citeturn6file4
+- Set triggers for automatic deployment.
 
 ---
 

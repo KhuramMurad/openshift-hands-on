@@ -4,7 +4,7 @@
 
 > **Repository path:** `labs/lab-5/lab-5-README.md`
 
-In this lab you’ll master updating live applications, safely rolling back failed deployments, and automating updates via ImageStreams and triggers citeturn4file0.
+In this lab you’ll master updating live applications, safely rolling back failed deployments, and automating updates via ImageStreams and triggers.
 
 ---
 

@@ -64,7 +64,7 @@ By working through these labs, you will develop hands‑on proficiency in:
 
 ## 🦸 Author Expertise
 
-This lab series is authored by **Khuram Murad**, an OpenShift administrator and developer with:
+This lab series is authored by **Khuram Murad**, an AIOps Engineer at Al Nafi International College:
 
 - 5+ years of experience in Kubernetes and OpenShift environments  
 - Hands‑on practice deploying production‑grade clusters on-premises and in the cloud  
